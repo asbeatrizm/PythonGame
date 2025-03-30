@@ -3,7 +3,8 @@
 import pygame
 
 from code.Const import WIN_WIDTH,WIN_HEIGHT
-from code.menu import Menu
+from code.Menu import Menu
+
 
 class Game:
     def __init__(self):
